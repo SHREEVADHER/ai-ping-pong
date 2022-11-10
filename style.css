@@ -1,0 +1,24 @@
+
+body{
+    background-size: cover;
+    }
+
+.heading{
+    width: 100%;
+}
+.heading h2{
+    display: inline;
+    color: rgb(255, 255, 255);
+   float: left;
+}
+.heading button{
+    float: right;
+    border-width: 5px;
+    border-color: rgb(47, 0, 255);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+}
+
+#start_button{
+    font-size: 20px;
+}
